@@ -19,8 +19,8 @@ scene view
 3. reaver and government ship engage in battle
 4. serenity makes it down to the planet
 
-![image](jpg.1)
-![image](jpg.2)
+![image](1.jpg)
+![image](2.jpg)
 
 # How it works
 
