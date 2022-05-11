@@ -43,6 +43,7 @@ Design
   | waypoint | Taken from [source](https://assetstore.unity.com/packages/tools/utilities/waypoints-free-143216) |
   
  | Assets | Source |
+  | ----- | ----- |
   | Planet | Taken from [source](https://sketchfab.com/3d-models/planet-afroditi-64e2d191987d44bfb4ee87b56e6e61f8#download) |
   | Reaver | Taken from [source](https://sketchfab.com/3d-models/space-ship-373e07f27daf4b67868e1f5b0e740f34)|
   | Firefly | Taken from [source](https://sketchfab.com/3d-models/heavy-class-firefly-8d6694aa551942f1a262e2444fe9a109#download) |
