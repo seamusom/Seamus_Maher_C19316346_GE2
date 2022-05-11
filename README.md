@@ -22,8 +22,6 @@ scene view
 ![image](1.jpg)
 ![image](2.jpg)
 
-# How it works
-
 # sequence
 1. camera follows serenity as it flies towards planet
 2. camera on government ships as reavers fly through the cloud
