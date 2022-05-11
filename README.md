@@ -24,11 +24,15 @@ scene view
 
 # How it works
 
-sequence
+# sequence
+1. camera follows serenity as it flies towards planet
+2. camera on government ships as reavers fly through the cloud
+3. camera on reaver as it chases government fighter
 
-Behaviours 
+# Design
+1. partical system for cloud
+2. space skybox
 
-Design
 
 # List of classes/assets with sources
  | Class | Source |
