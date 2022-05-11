@@ -10,8 +10,7 @@ The goal for this project was to remake a space battle from a Sci-FI movie or sh
 
 [clip I am looking at](https://www.youtube.com/watch?v=X_VSJfHiNPA)
 
-ship view
-scene view
+[clip of scene](https://www.youtube.com/watch?v=Uzqw_YAHTAo)
 
 # Event Summary
 1. Serenity flies through the cloud
