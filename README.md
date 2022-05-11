@@ -1,11 +1,11 @@
-#GE2 Assignment Space Battle
+# GE2 Assignment Space Battle
 Name: Séamus Maher
 
 Student Number: C19316346
 
 Class Group: Game Engines 1, Dame Design
 
-#Description
+# Description
 The goal for this project was to remake a space battle from a Sci-FI movie or show, I chose to do Serenity
 
 [clip I am looking at](https://www.youtube.com/watch?v=X_VSJfHiNPA)
@@ -13,7 +13,7 @@ The goal for this project was to remake a space battle from a Sci-FI movie or sh
 ship view
 scene view
 
-#Event Summary
+# Event Summary
 1. Serenity flies through the cloud
 2. Reaver ships follow Serenity through the cloud
 3. reaver and government ship engage in battle
@@ -22,7 +22,7 @@ scene view
 ![image](jpg.1)
 ![image](jpg.2)
 
-#How it works
+# How it works
 
 sequence
 
@@ -30,7 +30,7 @@ Behaviours
 
 Design
 
-#List of classes/assets with sources
+# List of classes/assets with sources
  | Class | Source |
   | ----- | ----- |
   | Chase | Self-Written |
